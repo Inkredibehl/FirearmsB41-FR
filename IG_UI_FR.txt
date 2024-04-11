@@ -1,0 +1,11 @@
+IGUI_FR = {
+    IGUI_ItemCat_Canister = "Boîte de munitions",
+
+    IGUI_Sandbox_FirearmsSection = "Armes à feu",
+    IGUI_Firearms_SuppressorBreak = "Rupture du silencieux improvisé",
+    IGUI_Firearms_SuppressorEffectiveness9mm = "Efficacité du silencieux 9mm",
+    IGUI_Firearms_SuppressorEffectiveness45 = "Efficacité du silencieux .45 ACP",
+    IGUI_Firearms_SuppressorEffectiveness223 = "Efficacité du silencieux .223 et 5.56x45mm",
+    IGUI_Firearms_SuppressorEffectiveness308 = "Efficacité du silencieux .308 et 7.62x51mm",
+    IGUI_Firearms_SuppressorEffectivenessImprovised = "Efficacité du silencieux improvisé",
+}

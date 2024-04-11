@@ -1,0 +1,13 @@
+Tooltip_FR = {
+  /*Attachments*/
+  Tooltip_Silencer = "Supprime le bruit d'un coup de feu.",
+  Tooltip_ImprovisedSilencer = "Supprime mieux que rien le bruit d'un coup de feu.",
+  Tooltip_Bipod = "Réduit le recul, ce qui augmente les chances de toucher.",
+  Tooltip_AmmoStock = "Diminue la vitesse de rechargement.",
+  Tooltip_TacticalStock = "Réduit le recul, ce qui augmente les chances de toucher.",
+  Tooltip_ExtendableStock = "Réduit le recul, ce qui augmente les chances de toucher. Peut être rétracté.",
+  Tooltip_Compensator = "Réduit le recul, ce qui augmente les chances de toucher.",
+  Tooltip_ServiceFirearms  = "Peut être utilisé pour entretenir les armes à feu.",
+  Tooltip_22  = ".22 LR",
+  Tooltip_9mm  = "9x19mm",
+}

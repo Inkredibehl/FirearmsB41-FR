@@ -1,0 +1,81 @@
+Sandbox_FR = {
+    Sandbox_Firearms = "Firearms B41",
+
+    Sandbox_Firearms_SuppressorBreak = "Rupture de silencieux improvisé",
+    Sandbox_Firearms_SuppressorBreak_tooltip = "Lorsque cette option est activée, le silencieux improvisé ne se cassera pas, quel que soit le risque de rupture.",
+
+    Sandbox_Firearms_ScrewdriverReq = "Nécessité d'un tournevis",
+    Sandbox_Firearms_ScrewdriverReq_tooltip = "Indique si un tournevis est nécessaire pour installer des accessoires sur les armes à feu.",
+
+    Sandbox_Firearms_FlashlightSuppressorBreakChance = "Chances de rupture du silencieux de lampe de poche",
+    Sandbox_Firearms_FlashlightSuppressorBreakChance_tooltip = "Chances globales de rupture d'un silencieux improvisé avec une lampe de poche. Même avec une faible probabilité, il existe toujours une chance de rupture dès la première utilisation.",
+
+    Sandbox_Firearms_BottleSuppressorBreakChance = "Chances de rupture du silencieux de bouteille",
+    Sandbox_Firearms_BottleSuppressorBreakChance_tooltip = "Chances globales de rupture d'un silencieux improvisé avec une bouteille. Même avec une faible probabilité, il existe toujours une chance de rupture dès la première utilisation.",
+
+    Sandbox_Firearms_BreakChance_option1 = "Une utilisation",
+    Sandbox_Firearms_BreakChance_option2 = "Élevée",
+    Sandbox_Firearms_BreakChance_option3 = "Moyenne",
+    Sandbox_Firearms_BreakChance_option4 = "Faible",
+
+    Sandbox_Firearms_SuppressorEffectiveness_option1 = "100%",
+    Sandbox_Firearms_SuppressorEffectiveness_option2 = "90%",
+    Sandbox_Firearms_SuppressorEffectiveness_option3 = "80%",
+    Sandbox_Firearms_SuppressorEffectiveness_option4 = "70%",
+    Sandbox_Firearms_SuppressorEffectiveness_option5 = "60%",
+    Sandbox_Firearms_SuppressorEffectiveness_option6 = "50%",
+    Sandbox_Firearms_SuppressorEffectiveness_option7 = "40%",
+    Sandbox_Firearms_SuppressorEffectiveness_option8 = "30%",
+    Sandbox_Firearms_SuppressorEffectiveness_option9 = "20%",
+    Sandbox_Firearms_SuppressorEffectiveness_option10 = "10%",
+
+    Sandbox_Firearms_SuppressorEffectiveness22 = "Efficacité du silencieux .22 LR",
+    Sandbox_Firearms_SuppressorEffectiveness22_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions .22 LR.",
+
+    Sandbox_Firearms_SuppressorEffectiveness9mm = "Efficacité du silencieux 9mm",
+    Sandbox_Firearms_SuppressorEffectiveness9mm_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions 9mm.",
+
+    Sandbox_Firearms_SuppressorEffectiveness45 = "Efficacité du silencieux .45 ACP",
+    Sandbox_Firearms_SuppressorEffectiveness45_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions .45 ACP.",
+
+    Sandbox_Firearms_SuppressorEffectiveness38 = "Efficacité du silencieux .38 Special",
+    Sandbox_Firearms_SuppressorEffectiveness38_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions .38 Special.",
+
+    Sandbox_Firearms_SuppressorEffectiveness44 = "Efficacité du silencieux .44 Magnum",
+    Sandbox_Firearms_SuppressorEffectiveness44_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions .44 Magnum.",
+
+    Sandbox_Firearms_SuppressorEffectiveness223 = "Efficacité du silencieux .223 et 5.56x45mm",
+    Sandbox_Firearms_SuppressorEffectiveness223_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions .223 et 5.56x45mm.",
+
+    Sandbox_Firearms_SuppressorEffectiveness308 = "Efficacité du silencieux .308 et 7.62x51mm",
+    Sandbox_Firearms_SuppressorEffectiveness308_tooltip = "Efficacité d'un silencieux sur une arme à feu utilisant des munitions .308 et 7.62x51mm.",
+
+    Sandbox_Firearms_SuppressorEffectivenessShotgunShells = "Efficacité du silencieux pour fusil à pompe",
+    Sandbox_Firearms_SuppressorEffectivenessShotgunShells_tooltip = "Efficacité d'un silencieux sur un fusil à pompe.",
+
+    Sandbox_Firearms_SuppressorEffectivenessImprovised = "Efficacité du silencieux improvisé",
+    Sandbox_Firearms_SuppressorEffectivenessImprovised_tooltip = "Efficacité des silencieux improvisés, en plus de l'efficacité basée sur le calibre.",
+
+    Sandbox_Firearms_SuppressorEffectivenessRevolver = "Efficacité du silencieux pour revolver",
+    Sandbox_Firearms_SuppressorEffectivenessRevolver_tooltip = "Efficacité des silencieux sur les revolvers, en plus de l'efficacité basée sur le calibre.",
+
+    Sandbox_Firearms_SpawnSuppressors = "Apparition de silencieux",
+    Sandbox_Firearms_SpawnSuppressors_tooltip = "Indique si des silencieux peuvent être trouvés dans le monde.",
+
+    Sandbox_Firearms_SpawnHandgunSuppressors = "Apparition de silencieux pour pistolet",
+    Sandbox_Firearms_SpawnHandgunSuppressors_tooltip = "Indique si des silencieux pour pistolet (9mm, .45 ACP) peuvent être trouvés dans le monde.",
+
+    Sandbox_Firearms_SpawnRifleSuppressors = "Apparition de silencieux pour fusil",
+    Sandbox_Firearms_SpawnRifleSuppressors_tooltip = "Indique si des silencieux pour fusil (.22 LR, .223/5.56x45mm et .308/7.62x51mm) peuvent être trouvés dans le monde.",
+
+    Sandbox_Firearms_SpawnShotgunSuppressors = "Apparition de silencieux pour fusil à pompe",
+    Sandbox_Firearms_SpawnShotgunSuppressors_tooltip = "Indique si des silencieux pour fusil à pompe peuvent être trouvés dans le monde.",
+
+    Sandbox_Firearms_SpawnRevolverSuppressors = "Apparition de silencieux pour revolver",
+    Sandbox_Firearms_SpawnRevolverSuppressors_tooltip = "Indique si des silencieux pour calibres .38 Special et .357 peuvent être trouvés dans le monde.",
+
+    Sandbox_Firearms_SpawnAmmoCans = "Apparition de boîtes de munitions",
+    Sandbox_Firearms_SpawnAmmoCans_tooltip = "Indique si des boîtes de munitions peuvent être trouvées dans des conteneurs.",
+
+    Sandbox_Firearms_LootSuppressor = "Silencieux",
+}
