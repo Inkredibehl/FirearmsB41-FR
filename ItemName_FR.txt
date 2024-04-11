@@ -16,7 +16,7 @@ ItemName_FR = {
 
     ItemName_Base.VarmintRifle = "Remington Model 700",
     ItemName_Base.HuntingRifle = "Ruger M77",
-    ItemName_Base.HuntingRifle_Sawn = "Ruger M77 Ã  Canon SciÃ©",
+    ItemName_Base.HuntingRifle_Sawn = "Ruger M77 à Canon Scié",
     ItemName_Base.Rugerm7722 = "Ruger M77/22",
 
     ItemName_Base.AssaultRifle = "M16A1",
@@ -32,21 +32,21 @@ ItemName_FR = {
     ItemName_Base.M60 = "M60",
     ItemName_Base.MP5 = "MP5A1",
 
-    ItemName_Base.UZI = "UZI",
+    ItemName_Base.UZI = "UZI Carbine",
     ItemName_Base.Mac10 = "Ingram MAC 10",
 
     ItemName_Base.Shotgun = "Mossberg 500",
-    ItemName_Base.ShotgunSawnoff = "Mossberg 500 Ã  Canon SciÃ©",
+    ItemName_Base.ShotgunSawnoff = "Mossberg 500 à Canon Scié",
     ItemName_Base.DoubleBarrelShotgun = "Rossi Overland Coach Gun",
-    ItemName_Base.DoubleBarrelShotgunSawnoff = "Rossi Overland Coach Gun Ã  Canon SciÃ©",
+    ItemName_Base.DoubleBarrelShotgunSawnoff = "Rossi Overland Coach Gun à Canon Scié",
     ItemName_Base.Mossberg500 = "Mossberg 590",
     ItemName_Base.Mossberg500Tactical = "Mossberg 590A1 Tactique",
     ItemName_Base.Remington870Wood = "Remington 870",
-    ItemName_Base.Remington870Sawnoff = "Remington 870 Ã  Canon SciÃ©",
+    ItemName_Base.Remington870Sawnoff = "Remington 870 à Canon Scié",
     ItemName_Base.M37 = "Ithaca 37",
     ItemName_Base.SPAS12 = "Franchi SPAS-12",
     ItemName_Base.LAW12 = "Franchi LAW-12",
-    ItemName_Base.M37Sawnoff = "Ithaca 37 Ã  Canon SciÃ©",
+    ItemName_Base.M37Sawnoff = "Ithaca 37 à Canon Scié",
     ItemName_Base.Winchester94 = "Winchester Model 1894",
     ItemName_Base.Winchester73 = "Winchester Model 1873",
     ItemName_Base.Rossi92 = "Rossi Model 92",
@@ -58,27 +58,27 @@ ItemName_FR = {
     ItemName_Base.x8Scope = "Lunette x8",
     ItemName_Base.x4-x12Scope = "Lunette x4-x12",
 
-    ItemName_Base.GunToolKit = "Kit d'outils pour armes Ã  feu",
-    ItemName_Base.ImprovisedGunToolKit = "Kit d'outils improvisÃ© pour armes Ã  feu"
+    ItemName_Base.GunToolKit = "Kit d'outils pour armes à feu",
+    ItemName_Base.ImprovisedGunToolKit = "Kit d'outils improvisé pour armes à feu"
     ItemName_Base.Solvent = "WD-40",
 
-    ItemName_Base.ExtendedRecoilPad = "Pad de recul Ã©tendu",
-    ItemName_Base.AmmoStock = "BandouliÃ¨re porte-cartouches de fusil",
+    ItemName_Base.ExtendedRecoilPad = "Pad de recul étendu",
+    ItemName_Base.AmmoStock = "Bandoulière porte-cartouches de fusil",
     ItemName_Base.TacticalStock = "Crosse tactique",
     ItemName_Base.ShotgunStock = "Crosse de fusil de chasse",
-    ItemName_Base.LightShotgunStock = "Crosse lÃ©gÃ¨re de fusil de chasse",
-    ItemName_Base.MP5_Stock_Extended = "Crosse MP5 Ã©tendue",
-    ItemName_Base.MP5_Stock_Detracted = "Crosse MP5 rÃ©tractÃ©e",
-    ItemName_Base.UZI_Stock_Detracted = "Crosse UZI rÃ©tractÃ©e",
-    ItemName_Base.UZI_Stock_Extended = "Crosse UZI Ã©tendue",
-    ItemName_Base.Mac10_Stock_Detracted = "Crosse MAC 10 rÃ©tractÃ©e",
-    ItemName_Base.Mac10_Stock_Extended = "Crosse MAC 10 Ã©tendue",
+    ItemName_Base.LightShotgunStock = "Crosse légère de fusil de chasse",
+    ItemName_Base.MP5_Stock_Extended = "Crosse MP5 étendue",
+    ItemName_Base.MP5_Stock_Detracted = "Crosse MP5 rétractée",
+    ItemName_Base.UZI_Stock_Detracted = "Crosse UZI rétractée",
+    ItemName_Base.UZI_Stock_Extended = "Crosse UZI étendue",
+    ItemName_Base.Mac10_Stock_Detracted = "Crosse MAC 10 rétractée",
+    ItemName_Base.Mac10_Stock_Extended = "Crosse MAC 10 étendue",
     ItemName_Base.Rifle_Bipod = "Bipied de fusil",
 	
-    ItemName_Base.Sling = "Sangle de fusil Ã  deux points (noire)",
-    ItemName_Base.Sling_Leather = "Sangle de fusil Ã  deux points (cuir)",
-    ItemName_Base.Sling_Olive = "Sangle de fusil Ã  deux points (vert olive)",
-    ItemName_Base.Sling_Camo = "Sangle de fusil Ã  deux points (camouflage)",
+    ItemName_Base.Sling = "Sangle de fusil à deux points (noire)",
+    ItemName_Base.Sling_Leather = "Sangle de fusil à deux points (cuir)",
+    ItemName_Base.Sling_Olive = "Sangle de fusil à deux points (vert olive)",
+    ItemName_Base.Sling_Camo = "Sangle de fusil à deux points (camouflage)",
 
     ItemName_Base.22Silencer = "Silencieux .22 LR",
     ItemName_Base.38Silencer = "Silencieux .38 & .357",
@@ -89,8 +89,8 @@ ItemName_FR = {
     ItemName_Base.ShotgunSilencer = "Silencieux pour fusil de chasse",
     ItemName_Base.ImprovisedSilencer = "Silencieux en lampe de poche",
     ItemName_Base.Silencer_PopBottle = "Silencieux en bouteille",
-    ItemName_Base.ImprovisedSilencer_Broken = "Silencieux en lampe de poche (cassÃ©)",
-    ItemName_Base.Silencer_PopBottle_Broken = "Silencieux en bouteille (cassÃ©)"
+    ItemName_Base.ImprovisedSilencer_Broken = "Silencieux en lampe de poche (cassé)",
+    ItemName_Base.Silencer_PopBottle_Broken = "Silencieux en bouteille (cassé)"
 
     ItemName_Base.9mmCompensator = "Compensateur 9mm",
 
@@ -113,20 +113,20 @@ ItemName_FR = {
     ItemName_Base.AK_Mag = "Chargeur d'AK-47"
     ItemName_Base.22Clip = "Chargeur de Colt Ace",
 
-    ItemName_Base.Bullets22Box = "BoÃ®te de munitions .22 LR",
-    ItemName_Base.223Box = "BoÃ®te de munitions .223",
-    ItemName_Base.308Box = "BoÃ®te de munitions .308",
-    ItemName_Base.556Box = "BoÃ®te de munitions 5.56x45mm",
-    ItemName_Base.Bullets38Box = "BoÃ®te de munitions .38 Special",
-    ItemName_Base.Bullets44Box = "BoÃ®te de munitions .44 Magnum",
-    ItemName_Base.Bullets45Box = "BoÃ®te de munitions .45 ACP",
-    ItemName_Base.Bullets9mmBox = "BoÃ®te de munitions 9x19mm",
-    ItemName_Base.ShotgunShellsBox = "BoÃ®te de cartouches de fusil calibre 12",
-    ItemName_Base.762x51Box = "BoÃ®te de munitions 7.62x51mm",
-    ItemName_Base.762x39Box = "BoÃ®te de munitions 7.62x39mm",
-    ItemName_Base.Bullets4440Box = "BoÃ®te de munitions .44-40 WCF",
-    ItemName_Base.Bullets357Box = "BoÃ®te de munitions .357",
-    ItemName_Base.Bullets3006Box = "BoÃ®te de munitions .30-06",
+    ItemName_Base.Bullets22Box = "Boîte de munitions .22 LR",
+    ItemName_Base.223Box = "Boîte de munitions .223",
+    ItemName_Base.308Box = "Boîte de munitions .308",
+    ItemName_Base.556Box = "Boîte de munitions 5.56x45mm",
+    ItemName_Base.Bullets38Box = "Boîte de munitions .38 Special",
+    ItemName_Base.Bullets44Box = "Boîte de munitions .44 Magnum",
+    ItemName_Base.Bullets45Box = "Boîte de munitions .45 ACP",
+    ItemName_Base.Bullets9mmBox = "Boîte de munitions 9x19mm",
+    ItemName_Base.ShotgunShellsBox = "Boîte de cartouches de fusil calibre 12",
+    ItemName_Base.762x51Box = "Boîte de munitions 7.62x51mm",
+    ItemName_Base.762x39Box = "Boîte de munitions 7.62x39mm",
+    ItemName_Base.Bullets4440Box = "Boîte de munitions .44-40 WCF",
+    ItemName_Base.Bullets357Box = "Boîte de munitions .357",
+    ItemName_Base.Bullets3006Box = "Boîte de munitions .30-06",
 
     ItemName_Base.Bullets22 = "Munition .22 LR",
     ItemName_Base.223Bullets = "Munition .223 Remington",
@@ -143,10 +143,10 @@ ItemName_FR = {
     ItemName_Base.Bullets357 = "Munition .357",
     ItemName_Base.Bullets3006 = "Munition .30-06",
 
-    ItemName_Base.AmmoCan762 = "BoÃ®te de munitions 7.62x51mm",
-    ItemName_Base.AmmoCan762x39 = "BoÃ®te de munitions 7.62x39mm",
-    ItemName_Base.AmmoCan556 = "BoÃ®te de munitions 5.56x45mm",
-    ItemName_Base.AmmoCan308 = "BoÃ®te de munitions .308 Winchester",
-    ItemName_Base.AmmoCan9mm = "BoÃ®te de munitions 9mm"
+    ItemName_Base.AmmoCan762 = "Boîte de munitions 7.62x51mm",
+    ItemName_Base.AmmoCan762x39 = "Boîte de munitions 7.62x39mm",
+    ItemName_Base.AmmoCan556 = "Boîte de munitions 5.56x45mm",
+    ItemName_Base.AmmoCan308 = "Boîte de munitions .308 Winchester",
+    ItemName_Base.AmmoCan9mm = "Boîte de munitions 9mm"
 
 }
